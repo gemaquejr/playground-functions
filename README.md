@@ -15,3 +15,11 @@ O projeto consistia em desenvolver funções utilizando conceitos da linguagem c
 - [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
 
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
+
+## :hammer_and_wrench: Antes de iiciar o projeto.
+
+No diretório do projeto, instale as dependências e inicialize o projeto:
+
+### `npm install`
+
+Instala as dependências.
