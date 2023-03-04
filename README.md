@@ -1,13 +1,17 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Playground Functions
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Segundo projeto desenvolvido no módulo de Fundamentos do Curso de Desenvolvimento Web da Trybe.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+![preview](.github/preview.png)
+
+O projeto consistia em desenvolver funções utilizando conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos de atribuição no código.
+
+## 🚀 Tecnologia
+
+- ⚡ JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
+
+## ✋🏻 Pré-requisitos
+
+- [git](https://git-scm.com/downloads): Ferramenta para gerenciar o código-fonte
+
+- [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
