@@ -16,7 +16,7 @@ O projeto consistia em desenvolver funções utilizando conceitos da linguagem c
 
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de Código Fonte
 
-## :hammer_and_wrench: Antes de iiciar o projeto.
+## :hammer_and_wrench: Antes de iniciar o projeto.
 
 No diretório do projeto, instale as dependências e inicialize o projeto:
 
