@@ -2,7 +2,7 @@
 
 Segundo projeto desenvolvido no módulo de Fundamentos do Curso de Desenvolvimento Web da Trybe.
 
-![preview](.github/preview.png)
+![preview](.github/preview.gif)
 
 O projeto consistia em desenvolver funções utilizando conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos de atribuição no código.
 
